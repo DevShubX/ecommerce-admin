@@ -27,23 +27,40 @@ This is an E-commerce Panel built using Next.js, a React framework for server-si
 
 <img src="https://github.com/DevShubX/ecommerce-admin/blob/main/ecomm-admin-ss/screenshot-3.png"/>
 
-## Getting Started
+## Installation
 
-First, run the development server:
+1. Clone the respository
+```bash
+git clone https://github.com/DevShubX/ecommerce-panel.git
+```
+2. Install the dependencies
+```bash
+npm install
+```
+3. Set up your environment variables:
+- Create a .env.local file in the project's root directory.
+- Define the following variables in the .env.local file:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+NEXT_APP_MONGODB_URL = <your_mongodb_url>
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+4. Start the development server
+```bash
+npm run dev
+```
+5. Open your browser and visit http://localhost:3000 to access the E-commerce Panel.
+  
+6. You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+
+
+### Contributing
+Contributions are welcome! If you find any issues or have suggestions for improvements, please create an issue or submit a pull request.
+
+Feel free to customize and enhance this E-commerce Panel to fit your specific requirements. Happy coding!
+
 
 ## Learn More
 
