@@ -1,4 +1,31 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# E-commerce Panel with Next.js and MongoDB
+
+This is an E-commerce Panel built using Next.js, a React framework for server-side rendering, and MongoDB, a NoSQL database. It provides a user-friendly interface for managing and administering an e-commerce website.
+
+## Features
+
+- User Management: Admins can create, update, and delete user accounts. Users can sign up, log in, and update their profile information.
+- Product Management: Admins can add, edit, and remove products from the inventory. Each product includes details such as name, description, price, and images.
+- Categories Management: Admins can manage product categories, including creating new categories, updating existing ones, and deleting categories.
+- Order Management: Admins can view and process orders placed by customers. They can update the order status, track deliveries, and manage inventory.
+- Shopping Cart: Customers can add products to their shopping cart, review their items, and proceed to checkout.
+- Responsive Design: The panel is designed to be mobile-friendly, providing a seamless experience across different devices.
+
+## Technologies Used
+
+- Next.js: A React framework for server-side rendering.
+- MongoDB: A NoSQL database for storing and retrieving data.
+- HTML/CSS: Front-end languages for creating the user interface.
+- JavaScript: The programming language used for client-side interactions.
+- Git: Version control system for tracking changes and collaborating with others.
+
+## Screeshots
+
+![Alt text]("https://github.com/DevShubX/ecommerce-admin/blob/main/ecomm-admin-ss/screenshot-1.png")
+
+![Alt text]("https://github.com/DevShubX/ecommerce-admin/blob/main/ecomm-admin-ss/screenshot-2.png)
+
+![Alt text]("https://github.com/DevShubX/ecommerce-admin/blob/main/ecomm-admin-ss/screenshot-3.png")
 
 ## Getting Started
 
