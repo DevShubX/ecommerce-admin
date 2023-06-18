@@ -21,11 +21,11 @@ This is an E-commerce Panel built using Next.js, a React framework for server-si
 
 ## Screeshots
 
-![Alt text]("https://github.com/DevShubX/ecommerce-admin/blob/main/ecomm-admin-ss/screenshot-1.png")
+<img src="https://github.com/DevShubX/ecommerce-admin/blob/main/ecomm-admin-ss/screenshot-1.png"/>
 
-![Alt text]("https://github.com/DevShubX/ecommerce-admin/blob/main/ecomm-admin-ss/screenshot-2.png)
+<img src="https://github.com/DevShubX/ecommerce-admin/blob/main/ecomm-admin-ss/screenshot-2.png"/>
 
-![Alt text]("https://github.com/DevShubX/ecommerce-admin/blob/main/ecomm-admin-ss/screenshot-3.png")
+<img src="https://github.com/DevShubX/ecommerce-admin/blob/main/ecomm-admin-ss/screenshot-3.png"/>
 
 ## Getting Started
 
